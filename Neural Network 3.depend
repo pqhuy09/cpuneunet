@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1464447147 source:d:\codeblocks\share\codeblocks\my codes\neural network 3\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+	<cmath>
+	<vector>
+	<queue>
+	<deque>
+	<cstring>
+	<string>
+	<cstdlib>
+	<time.h>
+	<fstream>
+
