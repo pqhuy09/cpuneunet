@@ -7,7 +7,7 @@ IDE : Codeblock
 Third project about neural network.
 Implemented from STD library.
 
-============================INPUT==FORMAT===========================================
+============================INPUT==FORMAT=================
 --HEADER--(Dummy line for easy reading)
     L : Number of layers
     S[L] : Array of layers' size
@@ -32,8 +32,8 @@ Implemented from STD library.
     Ntest pairs of lines :
         |Input vector of i-th test.
         |Output vector of i-th test
-============================OUTPUT==FORMAT===========================================
+============================OUTPUT==FORMAT==============
     Error_perc : #failed test/Ntest ~ failed percentage.
     J = Value of cost function
     L-1 matrix and L-1 vector come with the same above format.
-=================CODE=WRITTEN=BY=PHAM=QUANG=HUY===================================*/
+=================CODE=WRITTEN=BY=PHAM=QUANG=HUY=============*/
